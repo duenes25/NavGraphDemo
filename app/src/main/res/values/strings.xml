@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nav Graph Demo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_book_fragment">Hello Book fragment</string>
+    <string name="hello_book_details_fragment">Hello Book Details fragment</string>
+    <string name="book_details">book details</string>
+</resources>
