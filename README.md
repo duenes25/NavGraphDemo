@@ -11,9 +11,9 @@
 
 2. Ensure you are using DataBinding for your Activities/Fragments
 example: 
-val binding = DataBindingUtil.inflate<FragmentBookSearchBinding>(
-    inflater, R.layout.fragment_book_search, container, false
-)
+    val binding = DataBindingUtil.inflate<FragmentBookSearchBinding>(
+        inflater, R.layout.fragment_book_search, container, false
+    )
 
 3. Ensure you are using at least kotlin version 1.4.0 
 
