@@ -10,7 +10,7 @@
 1. You will need the latest Canary version of Android Studio As of 09/30/2020 this its still in Alhpa
 
 2. Ensure you are using DataBinding for your Activities/Fragments
-example: 
+example:  
     val binding = DataBindingUtil.inflate<FragmentBookSearchBinding>(
         inflater, R.layout.fragment_book_search, container, false
     )
