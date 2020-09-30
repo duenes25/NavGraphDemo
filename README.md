@@ -7,7 +7,7 @@
 
 ### Here are the steps to convert a regular kotlin app to JetPack Compose
 
-1. You will need ;atest Canary version of Android Studio As of 09/30/2020 this its still in Alhpa
+1. You will need the latest Canary version of Android Studio As of 09/30/2020 this its still in Alhpa
 
 2. Ensure you are using DataBinding for your Activities/Fragments
 example: 
