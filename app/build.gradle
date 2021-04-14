@@ -64,5 +64,7 @@ dependencies {
     implementation "androidx.compose.runtime:runtime-livedata:$rootProject.composeVersion"
     implementation "androidx.ui:ui-tooling:$rootProject.composeVersion"
     implementation "com.google.android.material:compose-theme-adapter:$rootProject.composeVersion"
+    
+    implementation "com.schwab.mobile:common-design:20210104.1.8.0"
 
 }
