@@ -20,6 +20,12 @@ allprojects {
     repositories {
         google()
         jcenter()
+        maven{ url 'https://luna.schwab.com/nexus/content/repositories/google-maven'}
+        maven{ url 'https://luna.schwab.com/nexus/content/repositories/central'}        
+        maven{ url 'https://luna.schwab.com/nexus/content/repositories/spring-release'}        
+        maven{ url 'https://luna.schwab.com/nexus/content/repositories/releases'}
+        maven{ url 'https://luna.schwab.com/nexus/content/repositories/atlassian-public/'}
+        maven{ url 'https://luna.schwab.com/nexus/content/repositories/thirdparty'}
     }
 }
 
